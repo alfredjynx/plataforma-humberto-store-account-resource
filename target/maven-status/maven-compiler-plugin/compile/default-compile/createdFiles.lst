@@ -1,2 +1,8 @@
+humberto\loja\account\Account.class
+humberto\loja\account\AccountModel.class
+humberto\loja\account\AccountService.class
 humberto\loja\account\AccountResource.class
 humberto\loja\account\AccountApplication.class
+humberto\loja\account\AccountRepository.class
+humberto\loja\account\AccountModel$AccountModelBuilder.class
+humberto\loja\account\Account$AccountBuilder.class
